@@ -1,6 +1,10 @@
 // tailwind.config.js
 module.exports = {
-    theme: {},
+    theme: {
+        width: {
+            '96': '24rem'
+        }
+    },
     variants: {},
     plugins: [],
 }
